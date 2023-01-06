@@ -1,0 +1,40 @@
+{
+  "short_name": "Airline Project",
+  "name": "Airline",
+  "icons": [
+    {
+      "src": "/flight_images/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/flight_images/AI.png",
+      "sizes": "75x60",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/flight_images/GF.png",
+      "sizes": "237x185",
+      "type": "image/png",
+      "purpose": "any"
+    },  
+    {
+      "src": "/flight_images/IG.png",
+      "sizes": "75x60",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/flight_images/SG.png",
+      "sizes": "75x60",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
